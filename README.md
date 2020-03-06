@@ -40,6 +40,8 @@ yarn build && yarn start
 ## 使用技術
 
 - [Next.js](https://nextjs.org/)
+  - styled-jsx
 - [React.js](https://reactjs.org/)
   - Function Component
   - Hooks
+- [TypeScript](https://www.typescriptlang.org/)
